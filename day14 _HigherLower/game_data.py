@@ -108,12 +108,6 @@ data = [
         'country': 'India'
     },
     {
-        'name': 'Sunny Leone',
-        'follower_count': 57,
-        'description': 'Actress',
-        'country': 'India'
-    },
-    {
         'name': 'Akshay Kumar',
         'follower_count': 64,
         'description': 'Actor',
